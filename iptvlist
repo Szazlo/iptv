@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-ID="m1.hu" tvg-name="M1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/M1_2020.png/200px-M1_2020.png" group-title="Élő TV",IT: Channel
 http://152.66.115.226:33391/bysid/100
 #EXTINF:-1 tvg-ID="Duna.hu" tvg-name="Duna" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Duna_logo_2012.png/150px-Duna_logo_2012.png" group-title="Élő TV",IT: Channel
-http://193.33.39.108:8105/31001
+http://152.66.115.226:33391/bysid/102
 #EXTINF:-1 tvg-ID="HirTV.hu" tvg-name="Hír TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/200px-Hirtvujlogo05.jpg" group-title="Élő TV",IT: Channel
-https://streamserver.mno.netrix.hu/live.php.m3u8
+http://193.33.39.108:7000/play/a004
 #EXTINF:-1 tvg-ID="tv2.hu" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/200px-Atv_logo_2018.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8102/30211
 #EXTINF:-1 tvg-ID="tv2.hu" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TV2_logo.png" group-title="Élő TV",IT: Channel
@@ -46,6 +46,6 @@ http://193.33.39.108:18000/
 #EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Fem3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/FEM3_New_Logo.svg/250px-FEM3_New_Logo.svg.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8115/30906
 #EXTINF:-1 tvg-ID="tv2.hu" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png" group-title="Élő TV",IT: Channel
-http://193.33.39.108:8105/31005
+http://193.33.39.108:7000/play/a003
 #EXTINF:-1 tvg-ID="tv2.hu" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_2_Logo_Poland.png/250px-HBO_2_Logo_Poland.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8107/30705
