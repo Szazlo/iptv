@@ -15,37 +15,37 @@ http://152.66.115.226:33390/bysid/203
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1 tvg-ID="Viasat3.hu" tvg-name="Viasat 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Viasat3_%281%29.png/175px-Viasat3_%281%29.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8111/11017
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Story 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Story4_2018_logo.png/150px-Story4_2018_logo.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="Story4.hu" tvg-name="Story 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Story4_2018_logo.png/150px-Story4_2018_logo.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8107/30708
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="RTL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RTL_II_Hungary_logo.svg/250px-RTL_II_Hungary_logo.svg.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="RTL2.hu" tvg-name="RTL 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RTL_II_Hungary_logo.svg/250px-RTL_II_Hungary_logo.svg.png" group-title="Élő TV",IT: Channel
 https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Super TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Super_TV2_logo.png/250px-Super_TV2_logo.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="SuperTV2.hu" tvg-name="Super TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Super_TV2_logo.png/250px-Super_TV2_logo.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8115/30907
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Filmcafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Film_cafe_hu.png/250px-Film_cafe_hu.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="FilmCafe.hu" tvg-name="Filmcafé" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Film_cafe_hu.png/250px-Film_cafe_hu.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8102/30206
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Mozi+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/250px-Mozi%2B_logo.svg.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="MoziPlus.hu" tvg-name="Mozi+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/250px-Mozi%2B_logo.svg.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8113/31110
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="RTL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/250px-RTL%2B_logo.svg.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="RTLplus.hu" tvg-name="RTL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/250px-RTL%2B_logo.svg.png" group-title="Élő TV",IT: Channel
 https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Spektrum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spektrum_TV_logója_%282020%29.png/250px-Spektrum_TV_logója_%282020%29.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="Spektrum.hu" tvg-name="Spektrum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spektrum_TV_logója_%282020%29.png/250px-Spektrum_TV_logója_%282020%29.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:7000/play/a00c
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Cool" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cool_TV_2014.png/150px-Cool_TV_2014.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="Cool.hu" tvg-name="Cool" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cool_TV_2014.png/150px-Cool_TV_2014.png" group-title="Élő TV",IT: Channel
 https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="AXN.hu" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8111/11004
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/250px-AMC_logo_2019.svg.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="AMC.hu" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/250px-AMC_logo_2019.svg.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8113/31105
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="DiscoveryScience.hu" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png" group-title="Élő TV",IT: Channel
 http://188.241.221.2:4000/play/a02c
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="TLC.hu" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" group-title="Élő TV",IT: Channel
 http://188.241.221.2:4000/play/a014
 #EXTINF:-1 tvg-ID="tv2.hu" tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/National_Geographic_Logo_2016.png/250px-National_Geographic_Logo_2016.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8113/31104
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="TV Paprika" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/7/7e/Paprika.gif" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="TVPaprika.hu" tvg-name="TV Paprika" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/7/7e/Paprika.gif" group-title="Élő TV",IT: Channel
 http://193.33.39.108:18000/
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Fem3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/FEM3_New_Logo.svg/250px-FEM3_New_Logo.svg.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="Fem3.hu" tvg-name="Fem3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/FEM3_New_Logo.svg/250px-FEM3_New_Logo.svg.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8115/30906
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="HBO.hu" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:7000/play/a003
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_2_Logo_Poland.png/250px-HBO_2_Logo_Poland.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="HBO2.hu" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_2_Logo_Poland.png/250px-HBO_2_Logo_Poland.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8107/30705
