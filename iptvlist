@@ -5,15 +5,15 @@ http://152.66.115.226:33391/bysid/100
 http://152.66.115.226:33391/bysid/102
 #EXTINF:-1 tvg-ID="HirTV.hu" tvg-name="Hír TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/200px-Hirtvujlogo05.jpg" group-title="Élő TV",IT: Channel
 http://193.33.39.108:7000/play/a004
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/200px-Atv_logo_2018.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="ATV.hu" tvg-name="ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/200px-Atv_logo_2018.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8102/30211
 #EXTINF:-1 tvg-ID="tv2.hu" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TV2_logo.png" group-title="Élő TV",IT: Channel
 http://152.66.115.226:33390/bysid/202
-#EXTINF:-1 tvg-ID="RTLKlub(src01).hu" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/250px-RTL_Klub_logo.svg.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="RTLKlub.hu" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/250px-RTL_Klub_logo.svg.png" group-title="Élő TV",IT: Channel
 http://152.66.115.226:33390/bysid/203
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Film+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/250px-FILM%2B_logo_2014_Hungary.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="FilmPlus.hu" tvg-name="Film+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/250px-FILM%2B_logo_2014_Hungary.png" group-title="Élő TV",IT: Channel
 https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
-#EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Viasat 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Viasat3_%281%29.png/175px-Viasat3_%281%29.png" group-title="Élő TV",IT: Channel
+#EXTINF:-1 tvg-ID="Viasat3.hu" tvg-name="Viasat 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Viasat3_%281%29.png/175px-Viasat3_%281%29.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8111/11017
 #EXTINF:-1 tvg-ID="tv2.hu" tvg-name="Story 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Story4_2018_logo.png/150px-Story4_2018_logo.png" group-title="Élő TV",IT: Channel
 http://193.33.39.108:8107/30708
