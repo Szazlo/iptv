@@ -1,1 +1,81 @@
-
+#EXTM3U
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",M1 Magyar TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145221
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",M2  Magyar TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145222
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",M4 SPORT HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/248359
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",HIR TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275317
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",ATV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144633
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",AMC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144568
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",AXN
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/345681
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",TV2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144902
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",RTL Club
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144866
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",RTL II HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275313
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",RTL+
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275316
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",SUPER TV 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275385
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Comedy Central
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/361811
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",COOL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275329
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",FEM3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275351
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",VIASAT 3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275392
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Spektrum HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144868
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",TLC
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275386
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",OZONE NETWORK
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275372
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",DIGI WORLD HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275336
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",DIGI SPORT 1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144586
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",DIGI SPORT 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144587
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",DIGI SPORT 3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144588
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",Sport 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144892
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",Sport 2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144893
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",SPILER TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275381
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",SPILER 2 TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275380
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Film+
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144613
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",FILM CAFE
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275402
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",FILM 4
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275352
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",MOZI PLUS HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275370
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",HBO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275360
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",HBO 2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144621
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",HBO 3
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275362
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",PAPRIKA TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275374
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Food Network
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144598
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",DISCOVERY CHANNEL HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275337
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Discovery Science
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275399
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Animal Planet
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144570
+#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",NAT GEO HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275407
