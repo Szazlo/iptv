@@ -1,81 +1,81 @@
 #EXTM3U
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",M1 Magyar TV HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/M1_2020.png/200px-M1_2020.png" group-title="Élő TV",M1 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145221
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",M2  Magyar TV HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/M2_logo_2012.png" group-title="Élő TV",M2 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/145222
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",M4 SPORT HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Duna_logo_2012.png/150px-Duna_logo_2012.png" group-title="Élő TV",Duna HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/235626
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/f/fd/M4_logo.png" group-title="Sport",M4 SPORT HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/248359
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",HIR TV
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hirtvujlogo05.jpg/200px-Hirtvujlogo05.jpg" group-title="Élő TV",HIR TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275317
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",ATV
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Atv_logo_2018.png/200px-Atv_logo_2018.png" group-title="Élő TV",ATV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144633
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",AMC
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/250px-AMC_logo_2019.svg.png" group-title="Élő TV",AMC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144568
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",AXN
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/250px-AXN_logo_%282015%29.svg.png" group-title="Élő TV",AXN
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/345681
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",TV2 HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TV2_logo.png" group-title="Élő TV",TV2 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144902
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",RTL Club
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/250px-RTL_Klub_logo.svg.png" group-title="Élő TV",RTL Club HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144866
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",RTL II HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RTL_II_Hungary_logo.svg/250px-RTL_II_Hungary_logo.svg.png" group-title="Élő TV",RTL II HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275313
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",RTL+
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/RTL%2B_logo.svg/250px-RTL%2B_logo.svg.png" group-title="Élő TV",RTL+
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275316
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",SUPER TV 2
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Super_TV2_logo.png/250px-Super_TV2_logo.png" group-title="Élő TV",SUPER TV2
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275385
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Comedy Central
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/640px-Comedy_Central_2018.svg.png" group-title="Élő TV",Comedy Central
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/361811
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",COOL HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Cool_TV_2014.png/150px-Cool_TV_2014.png" group-title="Élő TV",COOL HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275329
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",FEM3
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/FEM3_New_Logo.svg/250px-FEM3_New_Logo.svg.png" group-title="Élő TV",FEM3
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275351
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",VIASAT 3
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Viasat3_%281%29.png/175px-Viasat3_%281%29.png" group-title="Élő TV",VIASAT 3
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275392
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Spektrum HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spektrum_TV_log%C3%B3ja_%282020%29.png/250px-Spektrum_TV_log%C3%B3ja_%282020%29.png" group-title="Élő TV",Spektrum HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144868
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",TLC
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/250px-TLC-Logo_2016.png" group-title="Élő TV",TLC
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275386
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",OZONE NETWORK
+#EXTINF:0 tvg-country="HU" tvg-logo="https://ozonetv.hu/assets/static/ozonetv-b0ebc6c4c82475f19ebe50475f7d8e2c379dc4344fff7df07ee32f987f733254.jpg" group-title="Élő TV",OZONE NETWORK
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275372
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",DIGI WORLD HD
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275336
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",DIGI SPORT 1
+#EXTINF:0 tvg-country="HU" tvg-logo="https://www.digisport.hu/images/style/digisport-1.png" group-title="Sport",DIGI SPORT 1
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144586
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",DIGI SPORT 2
+#EXTINF:0 tvg-country="HU" tvg-logo="https://www.digisport.hu/images/style/digisport-2.png" group-title="Sport",DIGI SPORT 2
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144587
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",DIGI SPORT 3
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Digi_sport3_hu.png" group-title="Sport",DIGI SPORT 3
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144588
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",Sport 1 HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/sport_1_wide.png?itok=55iUw1f1" group-title="Sport",Sport 1 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144892
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Sport",Sport 2 HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://elokozvetites.tv/images/sport2tv-logo-nagy.png" group-title="Sport",Sport 2 HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144893
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",SPILER TV HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Sp%C3%ADler_TV_logo.svg" group-title="Sport",SPILER TV HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275381
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",SPILER 2 TV HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/Spiler2_tv_logo.png" group-title="Sport",SPILER 2 TV HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275380
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Film+
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FILM%2B_logo_2014_Hungary.png/250px-FILM%2B_logo_2014_Hungary.png" group-title="Élő TV",Film+
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144613
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",FILM CAFE
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Film_cafe_hu.png/250px-Film_cafe_hu.png" group-title="Élő TV",FILM CAFE
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275402
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",FILM 4
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Film4_logo.png" group-title="Élő TV",FILM 4
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275352
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",MOZI PLUS HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/250px-Mozi%2B_logo.svg.png" group-title="Élő TV",MOZI+ HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275370
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",HBO HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/250px-HBO_logo.svg.png" group-title="Élő TV",HBO HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275360
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",HBO 2
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_2_Logo_Poland.png/250px-HBO_2_Logo_Poland.png" group-title="Élő TV",HBO 2
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144621
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",HBO 3
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/HBO3_gradient.PNG/800px-HBO3_gradient.PNG" group-title="Élő TV",HBO 3
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275362
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",PAPRIKA TV
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/7/7e/Paprika.gif" group-title="Élő TV",PAPRIKA TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275374
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Food Network
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="Élő TV",Food Network
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144598
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",DISCOVERY CHANNEL HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Discovery_Channel_logo_2009.png" group-title="Élő TV",DISCOVERY CHANNEL HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275337
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Discovery Science
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/250px-Discovery_science_new_logo_2017.png" group-title="Élő TV",Discovery Science
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275399
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",Animal Planet
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Élő TV",Animal Planet
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144570
-#EXTINF:0 tvg-country="HU" tvg-logo="" group-title="Élő TV",NAT GEO HD
+#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/National_Geographic_Logo_2016.png/250px-National_Geographic_Logo_2016.png" group-title="Élő TV",NAT GEO HD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275407
