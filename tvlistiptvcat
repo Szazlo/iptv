@@ -17,7 +17,7 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/144568
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/345681
 #EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TV2_logo.png" group-title="Élő TV",TV2 HD
 http://152.66.115.226:33390/bysid/202
-#EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/250px-RTL_Klub_logo.svg.png" group-title="Élő TV",RTL Club HD
+#EXTINF:0 tvg-country="HU" tvg-ID="RTLKlub.hu" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/RTL_Klub_logo.svg/250px-RTL_Klub_logo.svg.png" group-title="Élő TV",RTL Club HD
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:0 tvg-country="HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RTL_II_Hungary_logo.svg/250px-RTL_II_Hungary_logo.svg.png" group-title="Élő TV",RTL II HD
 https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
